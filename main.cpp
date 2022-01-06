@@ -22,6 +22,8 @@ int main(int argc, char** argv) {
 
     cout <<"Bonjour"<<endl;
     
+    cout <<"Merlin Enzo"<<endl;
+    
     return 0;
 }
 
